@@ -1,0 +1,769 @@
+<resources>
+    <string name="app_name">DayFinder</string>
+    <string name="calsearch">CalSEARCH</string>
+    <string name="enter_the_date_dd_mm_yyyy">Enter the Date (DD-MM-YYYY)</string>
+    <string name="year">Year</string>
+    <string name="day">Day</string>
+    <string name="trivia">Trivia</string>
+    <string name="day2day">Day to Day</string>
+
+    <array name="mm">
+        <item>Month</item>
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </array>
+
+
+    <array name="dd">
+        <item>Day</item>
+        <item>"01"</item>
+        <item>"02"</item>
+        <item>"03"</item>
+        <item>"04"</item>
+        <item>"05"</item>
+        <item>"06"</item>
+        <item>"07"</item>
+        <item>"08"</item>
+        <item>"09"</item>
+        <item>"10"</item>
+        <item>"11"</item>
+        <item>"12"</item>
+        <item>"13"</item>
+        <item>"14"</item>
+        <item>"15"</item>
+        <item>"16"</item>
+        <item>"17"</item>
+        <item>"18"</item>
+        <item>"19"</item>
+        <item>"20"</item>
+        <item>"21"</item>
+        <item>"22"</item>
+        <item>"23"</item>
+        <item>"24"</item>
+        <item>"25"</item>
+        <item>"26"</item>
+        <item>"27"</item>
+        <item>"28"</item>
+        <item>"29"</item>
+        <item>"30"</item>
+        <item>"31"</item>
+    </array>
+
+    <array name="days">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Invalid Date!</item>
+    </array>
+
+    <array name="trivia">
+        <item>Birthday of John Edgar Hoover,the first Director of the Federal Bureau of
+            Investigation (FBI)
+        </item>
+        <item>1st photo of the Moon (French photographer Louis Daguerre) in 1839</item>
+        <item>Birthday of famous Formula 1 Racer Michael Schumacher</item>
+        <item>NASAs Mars Rover Spirit lands on Martian surface in the year 2004</item>
+        <item>First publication of The Strange Case of Dr. Jekyl and Mr. Hyde written by R.L.
+            Stevenson in the 1886 by Longmans, Green and Co.
+        </item>
+        <item>Vietnam holds its first ever General Elections in 1946</item>
+        <item>Astronomer Galilio Galilei discovers first 3 moons of Jupiter - Io, Europa and
+            Ganymede
+        </item>
+        <item>Birth Anniversary of famous English physicist and cosmologist, Stephen Hawking</item>
+        <item>The first known Womens Golf Tournament is held at Musselburgh Golf Club, Scotland in
+            1811
+        </item>
+        <item>India and Pakistan sign the Tashkent Peace Accord in 1966</item>
+        <item>Astronomer William Herschel discovers the moons of Uranus - Titania and Oberon</item>
+        <item>Birth anniversary of Swami Vivekanand celebrated as National Youth Day in India</item>
+        <item>The 1st Mickey Mouse comic strip appears in the year 1930</item>
+        <item>Margrethe II of Denmark becomes the first Queen of Denmark since 1412 in 1972</item>
+        <item>Elizabeth I crowned Queen of England in Westminster Abbey in 1559</item>
+        <item>French King Louis XVI sentenced to death by the National Convention during the French
+            Revolution in 1793
+        </item>
+        <item>Captain James Cook becomes 1st to cross Antarctic Circle in 1773</item>
+        <item>Bentley Motors Limited is founded in 1919 at Cricklewood, London</item>
+        <item>The first electric lighting system employing overhead wires, built by Thomas Edison,
+            begins service at Roselle, New Jersey in 1883
+        </item>
+        <item>President Jimmy Carter announces US boycott of Olympics in Moscow in 1980</item>
+        <item>British crime writer Agatha Christie publishes her first novel "The Mysterious Affair
+            at Styles" introducing the character Hercule Poirot in 1921
+        </item>
+        <item>Birthday of American pharmacist Wilbur Scoville, the creator of the Scoville Scale
+            used to measure the pungency or "heat" of chilli peppers
+        </item>
+        <item>Birth Anniversary of Indian nationalist and freedom fighter Netaji Subhash Chandra
+            Bose
+        </item>
+        <item>1st canned beer, Kruegers Cream Ale, is sold by American company Krueger Brewing Co.
+        </item>
+        <item>Moscow University is established by Elizabeth of Russia and founded by Mikhail
+            Lomonosov in 1755
+        </item>
+        <item>India becomes a Republic in the year 1950</item>
+        <item>Birthday of English writer Lewis Caroll, author of the famous Alices Adventurers in
+            Wonderland
+        </item>
+        <item>Sir Thomas Warner founds the first English colony in the Caribbean, on Saint Kitts in
+            1624
+        </item>
+        <item>Karl Benz patents the Benz Patent-Motorwagen in Karlsruhe, Germany, the worlds 1st
+            automobile with a burning motor
+        </item>
+        <item>Around the World in 80 Days by Jules Verne is published in France by Pierre-Jules
+            Hetzel in 1873
+        </item>
+
+        <item>Yellowstone becomes the worlds first national park in 1872</item>
+        <item>University of Illinois opens in 1868</item>
+        <item>Anne Sullivan begins teaching 6 year old Helen Keller, who later went on to become the
+            first deaf-blind person to earn a Bachelor of Arts degree and a renowned author
+        </item>
+        <item>Britains first electric trams run in East London in 1882</item>
+        <item>Samuel Colt manufactures first pistol, 34-caliber "Texas" model in the year 1836
+        </item>
+        <item>Portuguese navigator Ferdinand Magellan discovers the island of Guam in 1521</item>
+        <item>Alexander Graham Bell patents the telephone in 1876</item>
+        <item>International Womens Day</item>
+        <item>Nicolaus Copernicus records his 1st astronomical observation in 1497</item>
+        <item>Abraham Lincoln applies for a patent (only US President to do so) for a device to lift
+            a boat over shoals and obstructions
+        </item>
+        <item>Michelle Bachelet is inaugurated as the first female president of Chile in 2006</item>
+        <item>University of Vienna founded in 1365</item>
+        <item>American Chester Greenwood patents earmuffs after inventing them at age 15 in 1877
+        </item>
+        <item>Celebrated as Pi day : 3 14 correspond to the first 3 significant digits of the Pi
+            constant
+        </item>
+        <item>Julius Caesar is stabbed to death by Brutus, Cassius and several other Roman senators
+            on the Ides of March in Rome in 44 BC
+        </item>
+        <item>Adolf Hitler names Hjalmar Schacht as President of Bank of Germany in 1933</item>
+        <item>Bristol man Henry Jones patents self-raising flour 1845</item>
+        <item>Benito Mussolini and Italy join Hitler in Germanys war against France and Britain in
+            1940
+        </item>
+        <item>Although unknown at the time, Pluto is 1st photographed in the year 1915</item>
+        <item>Harriet Beecher Stowes "Uncle Toms Cabin" published in Boston in 1852</item>
+        <item>Persia is officially renamed Iran in 1935</item>
+        <item>1st patent for lasers granted to Arthur Schawlow and Charles Townes in 1960</item>
+        <item>1st telephone installed at the Presidents desk under the Hoover administration at the
+            White House in 1929
+        </item>
+        <item>Birthday of Tommy Hilfiger, principal designer at the fashion giant Tommy Hilfiger
+            Corporation
+        </item>
+        <item>Birthday of famous English singer and song-writer Elton John</item>
+        <item>Queen Elizabeth II sent out the first royal email, from the Royal Signals and Radar
+            Establishment in 1976
+        </item>
+        <item>Abraham Gesner patents kerosene in 1855</item>
+        <item>Rocket Pioneer Robert Goddard uses gyroscopes to control a rocket in 1935</item>
+        <item>Ludwig van Beethoven, aged 24 makes his debut performance as a pianist in Vienna in
+            1795
+        </item>
+        <item>1st recorded perihelion passage of Halleys Comet in 240 BC</item>
+
+        <item>Apple Inc. co-founded in 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne</item>
+        <item>Gerbert of Aurillac elected as 1st French Pope in 999</item>
+        <item>Bobby Fischer stripped of world chess title for refusing to defend it in 1975</item>
+        <item>US civil rights activist Martin Luther King Jr. assassinated in Memphis, Tennessee in
+            1968
+        </item>
+        <item>Isaac Quintard patents apple cider vinegar in 1806</item>
+        <item>Birthday of James Dewey Watson, co-author of the academic paper on the double-helix
+            structure of DNA
+        </item>
+        <item>IBM announces the System/360 family of mainframe computers in 1964</item>
+        <item>Milk sold in glass bottles for 1st time in 1879</item>
+        <item>Samuel R Percy patents dried milk in 1872</item>
+        <item>US patent system forms in 1790</item>
+        <item>The first modern submarine designed and built by John Philip Holland is purchased by
+            the U.S. Navy in 1900
+        </item>
+        <item>Polio vaccine tested by Dr Jonas Salk announced to be safe and effective in year
+            1955
+        </item>
+        <item>First elephant arrives in US from India in 1796</item>
+        <item>Birth Anniversary of the Father of the Indian Constitution, Dr. B.R. Ambedkar</item>
+        <item>Bank of England issues first 5 pound note in 1793</item>
+        <item>Queen Anne of England knights Isaac Newton at Trinity College, Cambridge in 1705
+        </item>
+        <item>India entered space age launching SLV-3 rocket in 1983</item>
+        <item>Zimbabwe (formerly Southern Rhodesia) declares independence from UK in 1980</item>
+        <item>India launches 1st satellite Aryabhata with help of the USSR</item>
+        <item>First pasteurization test completed by Frenchmen Louis Pasteur and Claude Bernard in
+            1862
+        </item>
+        <item>Central Asian conqueror Babur defeats Sultan Ibrahim Lodi, establishing the Mughal
+            Empire in India in 1526
+        </item>
+        <item>Birthday of Russian revolutionary Vladimir Lenin</item>
+        <item>Canada issues its 1st postage stamps in 1851</item>
+        <item>Eastman Kodak founded by George Eastman in 1888</item>
+        <item>Daniel Defoe publishes "Robinson Crusoe" in 1719</item>
+        <item>Copernicus makes his 1st observations of Saturn in 1514</item>
+        <item>The Australian Labor Party under Prime Minister Chris Watson becomes the first Labor
+            government in the world in 1904
+        </item>
+        <item>Muhammad Ali refuses induction into army and stripped of boxing title in 1967</item>
+        <item>Longest sausage ever, at 28.77 miles, made in Kitchener, Ontario in 1995</item>
+        <item>George Washington is inaugurated as the first President of the United States of
+            America in 1789
+        </item>
+
+        <item>Penny Black, the first adhesive postage stamp in the world issued by Great Britain in
+            1840
+        </item>
+        <item>William Herschel discovers 1st binary star, Xi Ursae Majoris in 1780</item>
+        <item>1st broadcast of CBS Evening News - longest running network news show in the US, in
+            1948
+        </item>
+        <item>Phonograph, invented by Thomas Alva Edison shown for 1st time at Grand Opera House in
+            1878
+        </item>
+        <item>Afrikaans is established as an official language in South Africa in 1925</item>
+        <item>James Gordon Bennett, Sr. publishes the first issue of the New York Herald (price 1
+            cent).
+        </item>
+        <item>US space shuttle STS-49 launched (maiden voyage of Endeavour) in 1992</item>
+        <item>Ernest Rutherford publishes his discovery of two different kinds of radiation (Alpha
+            and Beta Particles) in 1899
+        </item>
+        <item>British inventor Joseph Bramah patents beer-pump handle in 1785</item>
+        <item>Benjamin Franklin tests the lightning conductor with his kite-flying experiment in
+            1752
+        </item>
+        <item>Celebrated as National Technology Day in India to mark Indias nuclear test in
+            Pokhran(1998)
+        </item>
+        <item>Toilet that flushes itself at regular intervals is patented in 1792</item>
+        <item>3 astronauts simultaneous walked in space for the 1st time onboard space shuttle
+            Endeavour in 1992
+        </item>
+        <item>Louis XIV becomes King of France aged just 4 in 1643</item>
+        <item>ATandT becomes the 1st US corporation to have a million stockholders in 1951</item>
+        <item>Queen Elizabeth II becomes 1st British monarch to address US congress in 1991</item>
+        <item>Russian probe Venera 6 landed on Venus in 1969</item>
+        <item>Peoples Republic of China launches 1st intercontinental rocket in 1980</item>
+        <item>Birthday of former Prime Minister of Vietnam, Ho Chi Minh</item>
+        <item>Portuguese explorer Vasco da Gama arrives at Calicut, India becoming the first
+            European to reach India by sea in 1498
+        </item>
+        <item>FIFA established in Paris, France in 1904</item>
+        <item>Dr Washington Sheffield invents the toothpaste tube in 1892</item>
+        <item>Walt Disney incorporates his 1st film company Laugh-O-Gram Films in 1922</item>
+        <item>Samuel Morse taps out "What hath God wrought" in the worlds first telegraph message in
+            1844
+        </item>
+        <item>Goofy, aka Dippy Dawg, 1st appears in Mickeys Revue by Walt Disney in 1932</item>
+        <item>Napoleon Bonaparte is crowned King of Italy in 1805</item>
+        <item>Golden Gate Bridge in San Francisco opens to pedestrians in 1937</item>
+        <item>Alan Turing submits "On Computable Numbers" for publication, in which he set out the
+            theoretical basis for modern computers in 1936
+        </item>
+        <item>Edmund Hillary (NZ) and Tenzing Norgay (Nepal) are first to reach the summit of Mount
+            Everest as part of a British Expedition in 1953
+        </item>
+        <item>Spanish explorer Hernando de Soto discovers Florida in 1539</item>
+
+        <item>Thomas Edison granted his first patent for the Electric Vote Recorder in 1869</item>
+        <item>Coronation of Queen Elizabeth II in Westminster Abbey, London, England in 1953</item>
+        <item>Worlds largest environmental summit opens in Rio de Janeiro, Brazil in 1992</item>
+        <item>Henry Ford takes his 1st Ford through streets of Detroit in 1896</item>
+        <item>World Environment Day</item>
+        <item>Young Mens Christian Association (YMCA) formed by George Williams in London in 1844
+        </item>
+        <item>Richard Lee (Virginia) moves Declaration of Independence in Continental Congress in
+            1776
+        </item>
+        <item>French Open Womens Tennis: Serena Williams wins her first French title beating older
+            sister Venus Williams in 2002
+        </item>
+        <item>1st appearance of Donald Duck in a cartoon, "The Wise Little Hen" in 1934</item>
+        <item>US Equal Pay Act signed into law by President John F. Kennedy in 1963</item>
+        <item>Captain James Cook discovers Great Barrier Reef off Australia in 1770</item>
+        <item>Anne Frank gets her diary as a birthday present in Amsterdam in 1942, aged 13</item>
+        <item>President Kim Dae Jung of South Korea meets Kim Jong-il, leader of North Korea, for
+            the beginning of the first ever inter-Korea summit, in the northern capital of Pyongyang
+        </item>
+        <item>Charles Babbage proposes his Difference Engine in a paper to the Royal Astronomical
+            Society in 1822
+        </item>
+        <item>Charles Goodyear patents the vulcanization of rubber in 1844</item>
+        <item>Ford Motors under Henry Ford incorporates in 1903</item>
+        <item>Mumtaz Mahal dies during childbirth. Her husband, Mughal emperor Shah Jahan I, then
+            spends more than 20 years building her tomb, the Taj Mahal
+        </item>
+        <item>William Penn founds Philadelphia, US in 1682</item>
+        <item>1st photoelectric cell installed commercially West Haven, Connecticut in 1931</item>
+        <item>Tennis Court Oath (for a new constitution) in France made at Versailles in 1789</item>
+        <item>Summer Solstice in Northern Hemisphere</item>
+        <item>John Howe patents pin manufacturing machine in 1832</item>
+        <item>Birthday of British mathematician, computer scientist and professor at Cambridge, Alan
+            Turing, often regarded as the Father of Artificial Intelligence
+        </item>
+        <item>1st exhibition by Pablo Picasso, 19, opens in Paris in 1901</item>
+        <item>Venetian Elena Cornaro Piscopia is awarded a doctorate of philosophy, the 1st woman to
+            receive a university doctoral degree or PhD, in 1678
+        </item>
+        <item>Karl Benz of Germany receives US patent for gasoline-driven auto in 1894</item>
+        <item>Chlorophyll "A" synthesized in Cambridge, Massachusetts in 1960</item>
+        <item>Final draft of Declaration of Independence submitted to Continental Congress in 1776
+        </item>
+        <item>"A.I. Artificial Intelligence", directed by Steven Spielberg and starring Haley Joel
+            Osment, Jude Law and Frances O Connor, is released in 2001
+        </item>
+        <item>Mahatma Gandhis 1st arrest after campaigning for Indian rights in South Africa in
+            1914
+        </item>
+
+        <item>Celebrated as Doctors Day in India to mark the birth anniversary of eminent Indian
+            physician Dr.Bidhan Chandra Roy
+        </item>
+        <item>1st US elevated railroad begins service in New York City in 1867</item>
+        <item>In Germany, Karl Benz drives 1st automobile in 1886</item>
+        <item>American Independence Day</item>
+        <item>Isaac Newtons great work PRINCIPIA published by Royal Society in England in 1687,
+            which outlines his laws of motion and universal gravitation.
+        </item>
+        <item>Horlicks of Wisconsin offers 1st malted milk to public in 1886</item>
+        <item>Isaac Newton receives MA from Trinity College, Cambridge in 1668</item>
+        <item>Alfred Carlton Gilberts patent for the Erector Set is issued in 1913, it becomes one
+            of the most popular toys of all time
+        </item>
+        <item>Argentina declares independence from Spain in 1816</item>
+        <item>Yankee Clipper completes 1st passenger flight over Atlantic in 1938</item>
+        <item>Italian scientist Amedeo Avogadro publishes his memoir on the molecular content of
+            gases in 1811
+        </item>
+        <item>1st manned flight by gas balloon in Netherlands in 1785</item>
+        <item>The Hollywood Sign is officially dedicated in the hills above Hollywood, Los Angeles
+            in 1923
+        </item>
+        <item>Bastille Day - the French Revolution begins with the fall of the Bastille Prison.
+            Celebrated as Independence Day in France
+        </item>
+        <item>City of Jerusalem is captured and plundered by Christian forces during the First
+            Crusade in 1099
+        </item>
+        <item>1st banknotes in Europe are issued by Bank of Stockholm in 1661</item>
+        <item>1st US dental school, Harvard School of Dental Medicine, established in 1867</item>
+        <item>Birthday of South African anti-apartheid revolutionary and political leader Nelson
+            Mandela
+        </item>
+        <item>1st Wimbledon Mens Tennis: 27 year old English rackets player Spencer Gore wins
+            inaugural event; beats William Marshall 6-1, 6-2, 6-4 in 1877
+        </item>
+        <item>Fee 1st charged to see a baseball game (50 cents) (NY beats Bkln 22-18) in 1858</item>
+        <item>1st Test Cricket match played at Lords in 1884</item>
+        <item>The Beatles release "Introducing the Beatles" in 1963</item>
+        <item>William Austin Burt patents Americas first typographer (typewriter) in 1829</item>
+        <item>Edmund Halley enters The Queens College, Oxford, as an undergraduate in 1673</item>
+        <item>Walter Hunt is awarded the first U.S. patent for a paper shirt collar in 1854</item>
+        <item>Celebrated as Kargil Victory Day in in India to mark the victory of India over
+            Pakistan in the Kargil War of 1999
+        </item>
+        <item>Atlantic telegraph cable successfully laid (1,686 miles long) in 1866</item>
+        <item>French Revolution figure Robespierre and 22 other leaders of "the Terror" guillotined
+            to thunderous cheers in Paris in 1794
+        </item>
+        <item>1st helicopter ascent in Douai, France in 1907</item>
+        <item>Birthday of Henry Ford, founder of the the American automobile giant Ford Motors
+        </item>
+
+        <item>Joseph Priestley, English theologian, chemist and author discovers oxygen by isolating
+            it in its gaseous state in 1774
+        </item>
+        <item>Lewis Carroll publishes "Alices Adventures in Wonderland" in 1865</item>
+        <item>Christopher Columbus sets sail on his first voyage with three ships, Santa Maria,
+            Pinta and Nina from Palos de la Frontera, Spain for the Indies
+        </item>
+        <item>US government collects its 1st income tax in 1862</item>
+        <item>Japans first taxicab service begins in Ginza, Tokyo in 1912</item>
+        <item>Atomic bomb dropped on Hiroshima by the US B-29 Superfortress Enola Gay in 1945</item>
+        <item>Tokyo Telecommunications Engineering, the precursor to Sony, begins selling its first
+            transistor radios in Japan in 1955
+        </item>
+        <item>The millionth patent is filed in the United States Patent Office by Francis Holton for
+            a tubeless vehicle tire in 1911
+        </item>
+        <item>Otis Tuft patents the first passenger elevator in the US in 1859</item>
+        <item>Louvre palace officially opens in Paris as The Museum Central des Arts in 1793</item>
+        <item>Airbnb is founded by Brian Chesky, Joe Gebbia and Nathan Blecharczyk in 2008</item>
+        <item>Henry Fords company builds the first Model T car in 1908</item>
+        <item>Dutch astronomer Christiaan Huygens discovers Martian south polar cap in 1642</item>
+        <item>France introduces motor vehicle registration, includes a driving test in 1893</item>
+        <item>India is declared independent from England in the year 1947</item>
+        <item>NYC begins building the Grand Central Station in 1904</item>
+        <item>Korea is divided into North and South Korea in 1945</item>
+        <item>French Astronomer Pierre Janssen discovers helium in solar spectrum during eclipse in
+            1868
+        </item>
+        <item>Details of Louis Daguerres 1st practical photographic process are released in Paris in
+            1839
+        </item>
+        <item>NASA launches Voyager 2 towards Jupiter, Saturn, Uranus and Neptune in 1977</item>
+        <item>American inventor William Seward Burroughs patents the adding machine in 1888</item>
+        <item>Mahatma Gandhi forms the Natal Indian Congress (NIC) in order to fight discrimination
+            against Indian traders in Natal in 1894
+        </item>
+        <item>1st one-way streets open in London in 1617</item>
+        <item>Charlotte Bronte finishes manuscript of Jane Eyre in 1847</item>
+        <item>Momofuku Ando markets the first package of precooked instant noodles (Chikin Ramen) in
+            1958
+        </item>
+        <item>Birthday of Albanian-Indian Roman Catholic nun and missionary, Mother Teresa</item>
+        <item>USSR launches Sputnik 3 with two dogs aboard in 1958</item>
+        <item>Martin Luther King Jr. delivers his I have a dream speech addressing civil rights
+            march at Lincoln Memorial, Washington, D.C.
+        </item>
+        <item>The Goodyear tire company is founded in 1898</item>
+        <item>Ram Das becomes the 4th Sikh Guru in 1574</item>
+
+        <item>V-J Day, formal surrender of Japan aboard USS Missouri marks the end of WW II in
+            1945
+        </item>
+        <item>"A Trip To The Moon", the first sci-fi film, released in 1902</item>
+        <item>eBay (Electronic Bay) founded by Pierre Omidyar in 1995</item>
+        <item>English astronomer Edmond Halley observes the comet named after him in 1682</item>
+        <item>Birth Anniversary of former President of India Sarvepalli Radhakrishnan, celebrated as
+            Teachers Day in India
+        </item>
+        <item>Adolphe Pegoud becomes 1st aircraft to loop the loop in France in 1913</item>
+        <item>Edith Eleanor McLean is 1st baby to be placed in an incubator at State Emigrant
+            Hospital on Wards Island, New York in 1888
+        </item>
+        <item>A masterpiece of Renaissance sculpture, The Statue of David completed by Michelangelo
+            is unveiled in Florence, Italy in 1504
+        </item>
+        <item>Orville Wright makes 1st 1-hr airplane flight, Fort Myer in 1908</item>
+        <item>Rock band Nirvana release their famous single "Smells like Teen Spirit" in 1991</item>
+        <item>9/11 Attack on New York World Trade Towers in 2001</item>
+        <item>Jean-Paul Marat publishes the first issue of his radical newspaper Le Publiciste
+            parisien, later called Ami du peuple (The Friend of the People) in Paris in 1789
+        </item>
+        <item>IBM introduces the RAMAC 305, 1st commercial computer with a hard drive that uses
+            magnetic disk storage in 1956
+        </item>
+        <item>Indian Constituent Assembly adopts Hindi as an official language. Celebrated as Hindi
+            Day in India
+        </item>
+        <item>Birthday of world-famous mystery novel author Agatha Christie</item>
+        <item>The "Wall Street bombing" occurs at noon when a horse-drawn wagon explodes on Wall
+            Street, New York, killing 38 and injuring 143 in 1920
+        </item>
+        <item>William Herschel discovers Mimas, satellite of Saturn in 1789</item>
+        <item>Royal Opera House in London opens in 1809</item>
+        <item>Adventures of Superman TV series starring George Reeves premieres in syndication in
+            the US in 1952
+        </item>
+        <item>Spanish expedition led by Portuguese navigator Ferdinand Magellan sets off on the 1st
+            successful circumnavigation of the globe in 1519
+        </item>
+        <item>First cowboy film "Kit Carson" premieres in US in 1903</item>
+        <item>TV drama Charlies Angels starring Farrah Fawcett, Kate Jackson and Jaclyn Smith debuts
+            in 1976
+        </item>
+        <item>Abdulaziz Ibn Saud merges the Kingdom of Nejd and Hejaz into the Kingdom of Saudi Arab
+            in 1932
+        </item>
+        <item>President George Washington nominates John Jay for 1st Chief Justice and the US
+            Attorney Genral Office is created in 1789
+        </item>
+        <item>China launches the spacecraft Shenzhou 7 in 2008</item>
+        <item>Thomas Jefferson appointed 1st US Secretary of State and John Jay becomes 1st US Chief
+            Justice in 1789
+        </item>
+        <item>The physics journal Annalen der Physik publishes Albert Einsteins paper introducing
+            his famous energy-mass equivalence equation in 1905
+        </item>
+        <item>Napoleon Bonaparte (16) graduates from the military academy in Paris in 1785</item>
+        <item>American oil tycoon John D. Rockefeller becomes the worlds first billionaire in 1916
+        </item>
+        <item>The Flintstones the first animated sitcom created by Hanna-Barbera premieres on ABC in
+            the US
+        </item>
+
+        <item>International Day for the Elderly People</item>
+        <item>Birth Anniversary of Indian freedom fighter and activist Mahatma Gandhi</item>
+        <item>1st facsimile photo sent over city telephone lines, Washington, D.C. in 1922</item>
+        <item>Abraham Lincoln made his 1st political speech at Illinois State Fair in 1854</item>
+        <item>Harry Truman makes the 1st Presidential address televised from the White House in
+            1947
+        </item>
+        <item>Thomas Edison shows his 1st motion picture in 1889</item>
+        <item>Far side of Moon seen for the 1st time, courtesy of USSRs Luna 3 space probe, in
+            1959
+        </item>
+        <item>1927 - "The Second Hundred Years" silent short film released starring Stan Laurel and
+            Oliver Hardy - 1st Laurel and Hardy film with them appearing as a team
+        </item>
+        <item>Birthday of English singer, songwriter and Beatles co-founder John Lennon</item>
+        <item>Nobel prize for physiology awarded to Alfred G. Gilman and Martin Rodbell for
+            G-protein discoveries
+        </item>
+        <item>"Professor Quiz" first radio quiz show premieres in 1936</item>
+        <item>Theodore Roosevelt renames Executive Mansion as The White House in 1901</item>
+        <item>The Whirlpool Galaxy discovered by Charles Messier in 1773</item>
+        <item>George Eastman patents paper-strip photographic film in 1884</item>
+        <item>Ernest Hemingway novel To Have and Have Not published in 1937</item>
+        <item>Battle of Leipzig, largest battle in Europe prior to WWI, Napoleons forces defeated by
+            Prussia, Austria and Russia in 1813
+        </item>
+        <item>Bank of Italy (later Bank of America) opens its doors in San Francisco, founded by
+            Amadeo Giannini in 1904
+        </item>
+        <item>Alaska Purchase: US takes formal possession of Alaska from Russia, having paid 7.2
+            million dollars in 1867
+        </item>
+        <item>"1933 - Berlin Olympic Committee vote to introduce basketball in the 1936 games"
+        </item>
+        <item>US President Abraham Lincoln formally establishes Thanksgiving as a national holiday
+            in 1864
+        </item>
+        <item>Birthday of Swedish chemist and businessman Alfred Nobel</item>
+        <item>Google Play is launched, the official app store for the Android operating system
+        </item>
+        <item>Emperor Akihito becomes the first Emperor of Japan to visit China in 1992</item>
+        <item>Composer and Pianist Felix Mendelssohn aged 9 performs his first public concert in
+            Berlin in 1818
+        </item>
+        <item>Birthday of Spanish painter, sculptor and artist Pablo Picasso</item>
+        <item>Mother Teresa founds Missionaries of Charity in Calcutta, India in 1950</item>
+        <item>Walt Disneys 1st TV show, "Disneyland", premieres on ABC in 1954</item>
+        <item>St Louis police try a new investigation method in 1904 - fingerprints!</item>
+        <item>Gottfried Wilhelm Leibniz makes the first use of the long s, ∫, for integral, helping
+            discover integral and differential calculus in 1675
+        </item>
+        <item>Benito Mussolini forms government in Italy in 1922</item>
+
+        <item>John Adams becomes the first US President to live in the White House in 1800</item>
+        <item>British newspaper "Daily Mirror" begins publishing in 1904</item>
+        <item>International Radiotelegraph Conference in Berlin selects "SOS" (· · · – – – · · ·)
+            distress signal as the worldwide standard for help in 1906
+        </item>
+        <item>Howard Carter discovers tomb of Tutankhamun in Egypt in 1922</item>
+        <item>Akbar (14) succeeds his father Humayun as Sultan of Delhi</item>
+        <item>Japanese fleet readies assault on Pearl Harbor in 1941</item>
+        <item>Birthday of Indian physicist C. V. Raman who discovered why the water appears blue and
+            the Raman Effect
+        </item>
+        <item>German physicist Wilhelm Rontgen produces and detects electromagnetic radiation in a
+            wavelength range today known as X-rays in 1885
+        </item>
+        <item>Garry Kasparov becomes the youngest ever world chess champion (22), with a 13-11 win
+            over fellow Russian Anatoly Karpov in 1985
+        </item>
+        <item>John Hughes film "Home Alone" directed by Chris Columbus and starring Macaulay Culkin
+            premieres in Chicago in 1990
+        </item>
+        <item>German mathematician Gottfried Wilhelm Leibniz demonstrates integral calculus for the
+            first time to find the area under the graph of y = f(x) function in 1675
+        </item>
+        <item>Buzz Aldrin takes the first space selfie, a photo of himself performing extravehicular
+            activity in space during the Gemini program in 1966
+        </item>
+        <item>Birthday of the famous Scottish novelist Robert Louis Stevenson, autohr of The
+            Treasure Island
+        </item>
+        <item>American Gail Borden is issued a patent for technology related to his invention of
+            condensed milk in 1856
+        </item>
+        <item>Isaac Pitman introduces his shorthand system in 1837</item>
+        <item>Operation Magic Carpet begins with 1st plane from Yemen carrying Jews to Israel in
+            1948
+        </item>
+        <item>Elizabeth I aged 25 ascends English throne upon death of her half sister Queen
+            "Bloody" Mary in 1558
+        </item>
+        <item>Walt Disneys "Steamboat Willie" released, first Mickey Mouse sound cartoon, in 1928
+        </item>
+        <item>New York receives first Marconi wireless transmission from Italy in 1911</item>
+        <item>Ludwig van Beethovens "Fidelio", his only opera, premieres in Vienna in 1805</item>
+        <item>Law banning smoking on most domestic flights signed by US President George H. W. Bush
+            in 1989
+        </item>
+        <item>American President John F. Kennedy assassinated by Lee Harvey Oswald in Dallas, Texas
+            in 1963
+        </item>
+        <item>Pencil sharpener patented by J L Love in 1897</item>
+        <item>English naturalist Charles Darwin publishes "On the Origin of Species" radically
+            changing the view of evolution and laying the foundation for evolutionary biology in
+            1859
+        </item>
+        <item>Swedish chemist Alfred Nobel patents dynamite in 1867</item>
+        <item>"Casablanca" directed by Michael Curtiz and starring Humphrey Bogart and Ingrid
+            Bergman premieres at Hollywood Theater, New York City in 1942
+        </item>
+        <item>Swedish chemist Alfred Nobels will establishes the Nobel Prize in 1895</item>
+        <item>Bradman scores 226, the 1st Test Cricket century at Gabba, v South Africa in 1931
+        </item>
+        <item>Physicist Erwin Schrodinger publishes his famous thought experiment Schrodingers cat,
+            a paradox that illustrates the problem of the Copenhagen interpretation of quantum
+            mechanics in 1935
+        </item>
+        <item>"Gandhi" directed by Richard Attenborough and starring Ben Kingsley and John Gielgud
+            premieres in New Delhi
+        </item>
+
+        <item>Sherlock Holmes first appears in print in "Study in Scarlet" by Arthur Conan Doyle in
+            1887
+        </item>
+        <item>Napoleon Bonaparte is crowned Emperor of France in Paris in 1804</item>
+        <item>Edmond Halley receives MA from The Queens College, Oxford in 1678</item>
+        <item>The first Burger King is opened in Miami, Florida, USA in 1954</item>
+        <item>The French currency Franc is created in 1360</item>
+        <item>London becomes the worlds first city to host licenced taxicabs in 1897</item>
+        <item>Inventor Leo Baekeland patents the first thermo-setting plastic, Bakelite, sparking
+            the birth of the plastics industry in 1909
+        </item>
+        <item>With the second launch of the SpaceX Dragon, SpaceX becomes the first privately held
+            company to successfully launch, orbit and recover a spacecraft in 2010
+        </item>
+        <item>Noah Webster establishes New Yorks 1st daily newspaper, the "American Minerva" in
+            1793
+        </item>
+        <item>"Adventures of Huckleberry Finn" by Mark Twain is first published in the UK and Canada
+            in 1884
+        </item>
+        <item>British Physicist Cecil Frank Powell awarded Nobel Prize in Physics for his study of
+            nuclear processes and the discovery of the pion in 1950
+        </item>
+        <item>Guglielmo Marconi sends the first transatlantic radio signal, from Poldhu in Cornwall
+            to Newfoundland, Canada in 1901
+        </item>
+        <item>Dutch explorer Abel Tasman sights the South Island of present day New Zealand in 1642;
+            initially he calls it Staten Landt and changes it a year later to Nieuw Zeeland
+        </item>
+        <item>Princess Mary Stuart succeeds her father James V and becomes Queen Mary I of Scotland
+            being only 6 days old in 1542
+        </item>
+        <item>Napoleon Bonaparte receives a French state funeral in Paris in 1840, 19 years after
+            his death
+        </item>
+        <item>Charlie Chaplin begins his film career at Keystone for 150 dollars a week in 1913
+        </item>
+        <item>1st impeachment trial against a US senator (William Blount, Tennessee) begins in
+            1798
+        </item>
+        <item>Project SCORE, worlds 1st communications satellite launched from Cape Canaveral in
+            1958
+        </item>
+        <item>William Pitt the Younger becomes the youngest ever British Prime Minister at age 24 in
+            1783
+        </item>
+        <item>"Grimms Fairy Tales" by Jacob Grimm and Wilhelm Grimm is first published in 1812
+        </item>
+        <item>1st game of basketball, based on rules created by James Naismith, played by 18
+            students in Springfield, Massachusetts in 1891
+        </item>
+        <item>1st string of Christmas tree lights is created by Thomas Edison in 1882</item>
+        <item>English astronomer John Flamsteed observes Uranus without realizing it is undiscovered
+            in 1690
+        </item>
+        <item>Soviet spacecraft Luna 13 lands on Moon in 1966</item>
+        <item>1st definite date Christmas was celebrated on Dec 25th was in the year 352</item>
+        <item>Horror film "The Exorcist" based on book and screenplay by William Peter Blatty,
+            starring Linda Blair, rated X, premieres in 1973- 1st horror film to be nominated for
+            Best Picture
+        </item>
+        <item>The Hagia Sophia is inaugurated by the Emperor Justinian in 537</item>
+        <item>First observation of Neptune - Galileo observes and records a "fixed star" without
+            realising it is a planet in 1612
+        </item>
+        <item>1st American Young Mens Christian Association (YMCA) chapter opened in Boston,
+            Massachusetts in 1851
+        </item>
+        <item>Creation of the USSR formally proclaimed in Moscow from the Bolshoi Theatre, Soviet
+            Union in 1922
+        </item>
+
+        <item>US Supreme Court convenes for 1st time in New York City in 1790</item>
+        <item>1st leopard exhibited in US, Boston (admission 25 cents) in 1802</item>
+        <item>Circus owner P. T. Barnum buys his world famous elephant Jumbo in 1882</item>
+        <item>Birthday of American civil rights activist Rosa Parks, best known for her pivotal role
+            in the Montgomery bus boycott
+        </item>
+        <item>"Modern Times", silent film directed by, written by and starring Charlie Chaplin, is
+            released in 1936
+        </item>
+        <item>1st radio-controlled airplane flown in 1948</item>
+        <item>1st wireless message sent from a moving train to a station received in 1915</item>
+        <item>Radio arrives at the White House in 1922</item>
+        <item>Australian National University scientists discover the oldest known star at 13.6
+            billion years old in 2014
+        </item>
+        <item>"Tom and Jerry" cartoon created by William Hanna and Joseph Barbera debut by MGM in
+            1940
+        </item>
+        <item>"Archie" comic book debuts in 1942</item>
+        <item>Birthday of the 16th President of the USA, Abraham Lincoln</item>
+        <item>Tycho Brahe first sketches "Tychonic system" of solar system in 1578</item>
+        <item>In New York City, James Knox Polk becomes first serving US President to have his
+            photograph taken (by Matthew Brady) in 1849
+        </item>
+        <item>1st Teddy Bear introduced in America, made by Morris and Rose Michtom in 1903</item>
+        <item>Howard Carter opens the inner burial chamber of the Pharaoh Tutankhamuns tomb and
+            finds the sarcophagus in 1923
+        </item>
+        <item>The first superhero, The Phantom, a cartoon strip by Lee Falk, makes his first
+            appearance in comics in 1936
+        </item>
+        <item>H Cecil Booth patented a dust removing suction cleaner in 1901</item>
+        <item>Thomas Edison is granted a patent for his gramophone (phonograph) in 1878</item>
+        <item>Massachusetts Institute of Technology forms 1st US collegiate architectural school in
+            1865
+        </item>
+        <item>Lahore Declaration signed between India and Pakistan weapons in 1999</item>
+        <item>Dolly the Sheep, the first cloned mammal (from an adult cell) is announced by the
+            Roslin Institute in Scotland in 1997
+        </item>
+        <item>Engineer James Watts patent for a rotary motion for the steam engine (his
+            sun-and-planet gear) is granted
+        </item>
+        <item>Birthday of American business magnate and co-founder of Apple Inc. Steve Jobs</item>
+        <item>1st US cabinet meeting, held at George Washingtons home in 1793</item>
+        <item>Abraham Lincoln signs National Currency Act, establishes single national US currency
+            in 1863
+        </item>
+        <item>Birthday of American poet and educator H. W. Longfellow</item>
+        <item>1st US college cooperative store opens, at Harvard University in 1882</item>
+
+        <item>Hattie McDaniel becomes 1st African American woman to win an Oscar for "Gone with the
+            Wind" in 1940
+        </item>
+        <item>Apollo 14 launched in 1971, 1st landing in lunar highlands</item>
+        <item>Eiffel Tower officially opens in Paris in 1889</item>
+        <item>Madison Square Garden opens in New York, named after 4th President James Madison in
+            1879
+        </item>
+        <item>Christopher Columbus discovers the island of Trinidad on his third voyage in 1498
+        </item>
+        <item>Thomas Edison patents the Kinetoscope [kinetographic camera], a device which produces
+            moving pictures in 1897
+        </item>
+        <item>Mount Rushmore Monument is completed in 1941</item>
+        <item>Queen Victoria chooses Ottawa as new capital of Canada in 1857</item>
+    </array>
+
+
+</resources>
